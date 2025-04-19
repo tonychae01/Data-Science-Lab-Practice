@@ -10,7 +10,7 @@ This repository contains my solutions and learnings from Data Science Labs 1–
 ## Lab 1: Probability, Python Basics & Data Exploration
 
 **Key Skills & Topics**  
-- Reviewed fundamental probability results (e.g., Central Limit Theorem)  
+- Reviewed fundamental probability results (e.g., **Central Limit Theorem**)  
 - Applied core Python constructs to statistical concepts  
 - Loaded, cleaned, and explored tabular data using **Pandas** and **NumPy**
 
