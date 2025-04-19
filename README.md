@@ -1,6 +1,6 @@
 # Data-Science-Lab-Practice
 
-```markdown
+
 # Data Science Labs Overview
 
 This repository contains my solutions and learnings from Data Science Labs 1–6. Each lab focused on a core set of methods and tools that form the foundation of modern data science and machine learning workflows. Below is a concise summary of what I covered in each lab.
